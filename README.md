@@ -1,0 +1,1 @@
+这是一个非cli版本可以运行在非node环境的uniapp小程序框架，编辑器使用hbuilder
